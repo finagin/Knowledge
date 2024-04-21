@@ -9,3 +9,5 @@ One more line
 Last line
 
 '[[tag]]
+
+```ruby:/lib/gollum/app.rb```
