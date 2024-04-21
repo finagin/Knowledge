@@ -3,3 +3,5 @@
 New line
 
 One more line
+
+[link](link.md)
