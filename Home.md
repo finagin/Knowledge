@@ -10,4 +10,4 @@ Last line
 
 '[[tag]]
 
-```ruby:./config.rb```
+```ruby:/config.rb```
