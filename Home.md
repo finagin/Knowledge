@@ -7,3 +7,5 @@ One more line
 [link](link.md)
 
 Last line
+
+'[[tag]]
